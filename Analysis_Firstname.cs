@@ -8,7 +8,7 @@ public double GetRandomNumber1() {
         return (random.nextDouble() - 0.5) * 2.99;
     }
 
-
+Commit comm = new commit;
 
 
 Hello World!!!
