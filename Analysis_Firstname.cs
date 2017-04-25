@@ -7,3 +7,5 @@ public double GetRandomNumber1() {
         Random random = new Random();
         return (random.nextDouble() - 0.5) * 2.99;
     }
+
+123
